@@ -1,4 +1,4 @@
-### Hi there :wave:
+### Hello there :wave:
 
 10+ years professional experience as software engineer. Java and Kotlin expert. Specialised in backend development.
 
