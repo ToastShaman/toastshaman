@@ -9,6 +9,7 @@ I'm a Principal Consultant working for [Zuhlke Engineering](https://www.zuehlke.
 <p align="left">
 <a href="https://twitter.com/toastshaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="toastshaman" height="30" width="40" /></a>
 <a href="https://instagram.com/toastshaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="toastshaman" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kevin-denver" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ddddd" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
